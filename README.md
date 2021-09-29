@@ -3,5 +3,5 @@
 ## Continous Learn About SpringBoot Rest API
 
 ### Description Branches
-- Main &nbsp;&nbsp;&nbsp; -> Default Branch / Latest Stable Branch
-- Starter &nbsp;&nbsp; -> The First Branch
+- Main &emsp;&emsp;&emsp; -> Default Branch / Latest Stable Branch
+- Starter &emsp;&emsp; -> The First Branch

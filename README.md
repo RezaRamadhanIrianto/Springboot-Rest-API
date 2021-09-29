@@ -4,4 +4,4 @@
 
 #### Description Branches
 - Main -> Default Branch / Latest Stable Branch
-- Starter -> Already create project
+- Starter -> The First Branch

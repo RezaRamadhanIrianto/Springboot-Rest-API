@@ -2,10 +2,10 @@
    SpringBoot Rest API
 </h1>
 
-<h3>
+<h2>
    Continous Learn About SpringBoot Rest API   
-</h3>
+</h2>
 
-<h4> Description Branches </h4>
-- Main &emsp;&emsp;&emsp; -> Default Branch / Latest Stable Branch
+<h3> Description Branches </h3>
+- Main &emsp;&emsp;&emsp; -> Default Branch / Latest Stable Branch <br/>
 - Starter &emsp;&emsp; -> The First Branch

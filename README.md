@@ -14,5 +14,5 @@ Continous Learn About SpringBoot Rest API
 
 <h3> Description Branches </h3>
 - Main &emsp;&emsp;&emsp; -> Default Branch / Latest Stable Branch <br/>
-- Starter &emsp;&emsp; -> The First Branch
+- Starter &emsp;&emsp; -> The First Branch <br/>
 - crud-jpa-mysql &emsp; -> Create Read Update Delete using JPA and Mysql

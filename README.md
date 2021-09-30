@@ -13,6 +13,6 @@ Continous Learn About SpringBoot Rest API
 - Java Persistence API
 
 <h3> Description Branches </h3>
-- Main &emsp;&emsp;&emsp;&emsp;&emsp; -> Default Branch / Latest Stable Branch <br/>
-- Starter &emsp;&emsp;&emsp;&emsp; -> The First Branch <br/>
+- Main &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; -> Default Branch / Latest Stable Branch <br/>
+- Starter &emsp;&emsp;&emsp;&emsp;&emsp; -> The First Branch <br/>
 - crud-jpa-mysql &emsp; -> Create Read Update Delete using JPA and Mysql

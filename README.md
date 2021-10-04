@@ -10,8 +10,8 @@ Continous Learn About SpringBoot Rest API
 <h3>
    Technical Information
 </h3>
-- Java Persistence API
-
+- Java Persistence API (JPA)
+ 
 <h3> Description Branches </h3>
 - <b>main</b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> Default Branch / Latest Stable Branch <br/>
 - <b>starter</b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; -> The First Branch <br/>
